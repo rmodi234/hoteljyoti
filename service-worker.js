@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hoteljyoti/precache-manifest.35b4773fea5048fec57efc6be5611aa0.js"
+  "/hoteljyoti/precache-manifest.82513ef4efe90cd2a5c40bfc16e7dd52.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2288357065d1e0c810f6511494008dc5",
+    "revision": "f3653beeddc859adec9eef483fd903a3",
     "url": "/hoteljyoti/index.html"
   },
   {
-    "revision": "bf86a412d251b9527f5b",
+    "revision": "d3679f8bc2f08b6062c7",
     "url": "/hoteljyoti/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hoteljyoti/static/js/2.01868f67.chunk.js.LICENSE"
   },
   {
-    "revision": "bf86a412d251b9527f5b",
-    "url": "/hoteljyoti/static/js/main.cb0abf3f.chunk.js"
+    "revision": "d3679f8bc2f08b6062c7",
+    "url": "/hoteljyoti/static/js/main.79150f59.chunk.js"
   },
   {
     "revision": "df49f1cf88cc22503ac4",
