@@ -1,6 +1,6 @@
 const sliderdata = [
     {
-        'image':'/01.JPG'
+        'image':'01.JPG'
     },
     {
         'image':'02.JPG'
