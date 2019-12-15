@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hoteljyoti/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hoteljyoti/static/js/main.b861be5e.chunk.js",
+    "main.js.map": "/hoteljyoti/static/js/main.b861be5e.chunk.js.map",
+    "runtime-main.js": "/hoteljyoti/static/js/runtime-main.ca636036.js",
+    "runtime-main.js.map": "/hoteljyoti/static/js/runtime-main.ca636036.js.map",
+    "static/js/2.e870e464.chunk.js": "/hoteljyoti/static/js/2.e870e464.chunk.js",
+    "static/js/2.e870e464.chunk.js.map": "/hoteljyoti/static/js/2.e870e464.chunk.js.map",
+    "index.html": "/hoteljyoti/index.html",
+    "precache-manifest.47a21927d6f32f2bd3a62163bd1280af.js": "/hoteljyoti/precache-manifest.47a21927d6f32f2bd3a62163bd1280af.js",
+    "service-worker.js": "/hoteljyoti/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hoteljyoti/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e870e464.chunk.js.LICENSE": "/hoteljyoti/static/js/2.e870e464.chunk.js.LICENSE",
+    "static/media/bg1.png": "/hoteljyoti/static/media/bg1.7d194181.png",
+    "static/media/logo.png": "/hoteljyoti/static/media/logo.5cf024bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca636036.js",
+    "static/js/2.e870e464.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b861be5e.chunk.js"
+  ]
+}
