@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d7f75f4be210c98ecb587625e9c9314",
+    "revision": "17d4d372b3b3af36730f17642a9e63ae",
     "url": "/hoteljyoti/index.html"
   },
   {
-    "revision": "be5fe9e96fd39cb7036b",
+    "revision": "fda14836903c1cad97d4",
     "url": "/hoteljyoti/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "d4d1f59c4ed1f7da1a7d",
-    "url": "/hoteljyoti/static/js/2.e870e464.chunk.js"
+    "revision": "8d807d106fa9d7746e39",
+    "url": "/hoteljyoti/static/js/2.463274f5.chunk.js"
   },
   {
     "revision": "7f99e0e51f1c89597c0cc7d370e10865",
-    "url": "/hoteljyoti/static/js/2.e870e464.chunk.js.LICENSE"
+    "url": "/hoteljyoti/static/js/2.463274f5.chunk.js.LICENSE"
   },
   {
-    "revision": "be5fe9e96fd39cb7036b",
-    "url": "/hoteljyoti/static/js/main.b861be5e.chunk.js"
+    "revision": "fda14836903c1cad97d4",
+    "url": "/hoteljyoti/static/js/main.f1f09bc2.chunk.js"
   },
   {
     "revision": "df49f1cf88cc22503ac4",
